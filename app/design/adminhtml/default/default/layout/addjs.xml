@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+  <addjs_adminhtml_addjs_index>
+	<reference name="content">
+	  <block type="addjs/adminhtml_addjs" name="addjs" />
+	</reference>
+  </addjs_adminhtml_addjs_index>
+</layout>

@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<config>
+  <modules>
+    <EdwinYoyada_AddJs>
+        <active>true</active>
+        <codePool>local</codePool>
+     </EdwinYoyada_AddJs>
+   </modules>
+</config>
